@@ -139,7 +139,7 @@ The primary goals of this textbook are to solidify the grammar, vocabulary and k
 * [mykikitori](http://mykikitori.com/index.html) - Practice your Japanese learning skill.
 * Podcast
 	* [Learn Japanese Pod](https://learnjapanesepod.com/)
-	* [JapanesePod101](https://www.japanesepod101.com/)
+	* [JapanesePod101](https://www.japanesepod101.com/) :moneybag:
 	* [News in Slow Japanese](http://newsinslowjapanese.com/)
 	* [NHK News Podcast](http://www.nhk.or.jp/podcasts/) - Three podcasts available: Japanese news:older_man:, English news, and Easy Japanese.
 
